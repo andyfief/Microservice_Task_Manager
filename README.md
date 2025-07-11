@@ -1,5 +1,5 @@
 # TaskFlow: A Task Management System
- - **An academic project at Oregon State University, CS362 - Software Engineering I**
+ - **An academic project at Oregon State University, CS361 - Software Engineering I**
 
 This project implements a task management system using a microservices architecture with Python's Flask. The system consists of multiple services that handle different aspects of task management, including task storage, email notifications, exporting tasks, and task translation.
 
